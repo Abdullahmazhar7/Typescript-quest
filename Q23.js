@@ -1,0 +1,32 @@
+// True conditions
+var car = 'subaru';
+console.log("Is car == 'subaru'? I predict True.");
+console.log(car == 'subaru');
+var Bike = 'Honda';
+console.log("Is Bike == 'Honda'? I predict True.");
+console.log(Bike == 'Honda');
+var vehicle = 'Mehran';
+console.log("Is vehicle == 'Mehran'? I predict True.");
+console.log(vehicle == 'Mehran');
+var Num = '7';
+console.log("Is Num == '7'? I predict True.");
+console.log(Num == '7');
+var No = '1';
+console.log("Is No == '1'? I predict True.");
+console.log(No == '1');
+// False Conditions
+var f1 = '25';
+console.log("Is f1 == '24'? I predict false.");
+console.log(f1 == '24');
+var f2 = '1';
+console.log("Is f2 == '1'? I predict false.");
+console.log(f2 == '3');
+var a1 = '2';
+console.log("Is a1 == '2'? I predict false.");
+console.log(a1 == '4');
+var a2 = '7';
+console.log("Is a2 == '7'? I predict false.");
+console.log(a2 == '9');
+var a3 = '1';
+console.log("Is a3 == '1'? I predict false.");
+console.log(a3 == '8');
